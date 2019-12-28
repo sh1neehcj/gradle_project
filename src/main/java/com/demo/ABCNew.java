@@ -13,7 +13,7 @@ import java.io.FileReader;
 public class ABCNew {
     public static void main(String[] args) {
         try {
-            FileReader fr = new FileReader(new File("D:\\111\\ccc.txt"));
+            FileReader fr = new FileReader(new File("D:\\111\\f.txt"));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
