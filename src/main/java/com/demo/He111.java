@@ -6,7 +6,7 @@
 
 package com.demo;
 
-public class He {
+public class He111 {
     public static void main(String[] args) {
         System.out.println("he");
     }
