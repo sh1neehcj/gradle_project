@@ -13,7 +13,7 @@ import java.io.FileReader;
 public class Demo01 {
     public static void main(String[] args) {
         try {
-            FileReader fr = new FileReader(new File("D:\\111\\555.txt"));
+            FileReader fr = new FileReader(new File("D:\\111\\00.txt"));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
